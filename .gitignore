@@ -1,0 +1,13 @@
+ch*/
+tetrix/
+qtWidgets/
+
+*.stash
+*.pro
+*.tar
+*.zip
+
+Make*
+*.qtcreator
+
+
