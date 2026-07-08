@@ -16,8 +16,7 @@ class SocketClient : public QWidget
     QString SERVERIP = "10.10.16.XX";
     int SERVERPORT = 5000;
     QString LOGID = "0";
-    QString LOGPW = "PASSWD
-}";
+    QString LOGPW = "PASSWD";
 
 public:
     explicit SocketClient(QWidget *parent = nullptr);

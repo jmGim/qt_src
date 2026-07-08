@@ -74,6 +74,8 @@ void Tab2SocketClient::UpdateRecvDataSlot(QString strRecvData)
             emit ledWriteSig(ledNo);
     } else if((strList[2].indexOf("LAMP") == 0) || (strList[2].indexOf("GAS") == 0))  { //LAMPON, LAMPOFF
         emit tab3RecvDataSig(strList) ;
+    } else if((strList[2].indexOf("SENSOR") == 0))  {
+        emit tab4RecvDataSig(strList) ;
     }
 }
 SocketClient *Tab2SocketClient::getpSocketClient()
