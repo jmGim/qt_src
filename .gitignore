@@ -10,4 +10,8 @@ qtWidgets/
 Make*
 *.qtcreator
 
+*/build/*
+*/*/build/*
 
+*/*/.o
+*/*/*.o

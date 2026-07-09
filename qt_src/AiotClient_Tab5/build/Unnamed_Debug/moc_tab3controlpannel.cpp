@@ -6,7 +6,7 @@
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
 
-#include "../../tab3controlpannel.h"
+#include "../../../AiotClient_Tab6/tab3controlpannel.h"
 #include <QtCore/qmetatype.h>
 
 #include <QtCore/qtmochelpers.h>

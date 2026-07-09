@@ -6,32 +6,9 @@
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
 
-#include "../../mainwidget.h"
+#include "../../../AiotClient_Tab6/mainwidget.h"
 #include <QtGui/qtextcursor.h>
 #include <QtGui/qscreen.h>
-#include <QtCharts/qlineseries.h>
-#include <QtCharts/qabstractbarseries.h>
-#include <QtCharts/qvbarmodelmapper.h>
-#include <QtCharts/qboxplotseries.h>
-#include <QtCharts/qcandlestickseries.h>
-#include <QtCore/qabstractitemmodel.h>
-#include <QtCharts/qpieseries.h>
-#include <QtCore/qabstractitemmodel.h>
-#include <QtCharts/qboxplotseries.h>
-#include <QtCore/qabstractitemmodel.h>
-#include <QtCharts/qpieseries.h>
-#include <QtCharts/qpieseries.h>
-#include <QtCore/qabstractitemmodel.h>
-#include <QtCharts/qxyseries.h>
-#include <QtCharts/qxyseries.h>
-#include <QtCore/qabstractitemmodel.h>
-#include <QtCore/qabstractitemmodel.h>
-#include <QtCharts/qboxplotseries.h>
-#include <QtCore/qabstractitemmodel.h>
-#include <QtCharts/qpieseries.h>
-#include <QtCore/qabstractitemmodel.h>
-#include <QtCharts/qxyseries.h>
-#include <QtCore/qabstractitemmodel.h>
 #include <QtCore/qmetatype.h>
 
 #include <QtCore/qtmochelpers.h>
